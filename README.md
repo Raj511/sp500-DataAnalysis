@@ -21,6 +21,7 @@ Are there any momentum effects? Does past performance determine future ones?
 Momentum is a well-known phenomenon in the stock market. Simply put, what goes up will continue going up and vice versa or the winners keep winning.
 
 ######## Why this is important? ############
+
 These questions will be important in observing the behaviour of S&P 500 stock market index in market over the years and will help us identify seasonalities in the market if any, randomness in the market, momentum effects etc.
 This will help us define tactics that a novice retail investor might be able to exploit to book some profits in the market without the substantial capital or using all the prediction algorithms that this big investing firm uses.
 
