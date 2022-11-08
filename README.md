@@ -7,6 +7,7 @@ Nowadays, it's crucial to manage your finances or invest your money in a way tha
 
 
 ######## This Project Explores Below Guiding Questions ################
+
 How S&P 500 is structured, what are the components, and how is the final price calculated? What sectors and industries are there? Who are the leaders in each one of them?
 The US Stock market is like a huge supermarket with many departments and goods. This question will help us to navigate and eventually construct our basket.
 
