@@ -29,7 +29,9 @@ This will help us define tactics that a novice retail investor might be able to 
 
 This Project uses daily updated datasets of S&P 500 sourced from kaggle. Since the length of the datasets is too large to upload to the git I'm attaching the link to the datasets below. 
 https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?resource=download
+
 Or you can use the below api call for the same,
+
 kaggle datasets download -d andrewmvd/sp-500-stocks
 
 Once you have all the datasets just run all the cells in the python notebook.
